@@ -1,0 +1,16 @@
+{
+    "id": "12345",
+    "title": "ソフトウェアエンジニア",
+    "description": "ソフトウェアアプリケーションの設計、開発、保守を行います。",
+    "company": "株式会社 Acme",
+    "location": "沖縄県名護市",
+    "salary": "年収500万円 - 800万円",
+    "skills": [
+      "Go",
+      "Python",
+      "JavaScript",
+      "React",
+      "SQL"
+    ]
+  }
+  
